@@ -82,8 +82,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: raise, h: toggle}
   - {t: default, h: toggle}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
+  - ␣
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
@@ -125,7 +125,7 @@ layers:
   - {t: '$$mdi:led-on$$', h: '$$mdi:toggle-switch$$', s: '$$mdi:led-outline$$', type: toggle}
   - {t: default, h: toggle}
   - {t: lower, h: toggle}
-  - '&soft_off'
-  - '&soft_off'
+  - LEFT SHIFT
+  - ␣
   - PAGE UP
   - PAGE DOWN
