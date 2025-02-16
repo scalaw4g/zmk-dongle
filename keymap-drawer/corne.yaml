@@ -25,7 +25,7 @@ layers:
   - L
   - ;
   - ''''
-  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-control$$
   - Z
   - X
   - C
@@ -41,7 +41,7 @@ layers:
   - {t: raise, h: toggle}
   - LEFT SHIFT
   - ␣
-  - $$mdi:apple-keyboard-control$$
+  - RIGHT ALT
   - $$mdi:apple-keyboard-command$$
   lower:
   - ESCAPE
