@@ -116,7 +116,7 @@ include:
   ### SETTINGS_RESET START ###
   - board: nice_nano_v2
     shield: settings_reset
-    artifact-name: nice_settings_reset
+    artifact-name: nicenano_settings_reset
   - board: seeeduino_xiao_ble
     shield: settings_reset
     artifact-name: xiao_settings_reset
